@@ -1,0 +1,15 @@
+# ⚡ Meus Comandos Favoritos
+Aqui estão os comandos que mais utilizei na aula de Terminal:
+
+- `cd`: Para navegar entre pastas.
+- `dir`: Para listar arquivos.
+-`mkdir`: Crie uma pasta para a nossa disciplina
+-`cd ..`: voltar uma pasta 
+- dotnet new list : Mostra todos os tipos de projetos que você pode criar
+-dotnet new console -n MyApp: Cria uma nova aplicação de console na pasta "MyApp".
+-dotnet build : Verifica se há erros no código e gera o executável.
+-dotnet run:  Compila (se necessário) e roda o programa imediatamente.
+## 📸 Evidência de Execução
+ 
+
+![Foto do meu terminal](./screenshot.png)
